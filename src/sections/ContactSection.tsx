@@ -94,7 +94,7 @@ export default function ContactSection() {
           </p>
           <div className="flex flex-wrap items-center gap-4 pt-10">
             <IconButton
-              href="https://www.linkedin.com/in/filip-ivanovic-60ab98242"
+              href="https://www.linkedin.com/in/hamza-el-mesaouab/"
               title="LinkedIn"
               icon={
                 <svg
@@ -107,7 +107,7 @@ export default function ContactSection() {
               }
             />
             <IconButton
-              href="https://github.com/alkanoidev"
+              href="https://github.com/Hamza-MS"
               title="GitHub"
               icon={
                 <svg
@@ -121,8 +121,8 @@ export default function ContactSection() {
             />
             <div className="hidden sm:block">
               <OutlinedButton
-                href="mailto:alkanoidev@gmail.com"
-                title="alkanoidev@gmail.com"
+                href="Hamzaelmesaouab@gmail.com"
+                title="HamzaElMesaouab@gmail.com"
               />
             </div>
             <div className="block sm:hidden">
